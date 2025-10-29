@@ -2,13 +2,8 @@ Copy & Paste This Command To Install the Script/Tool Python Encrypter
 
 COMMAND : 
 
-apt update && apt upgrade -y
-pkg install git
-pkg install python
-pip install requests
-git clone https://github.com/Yasssss-py/enc-python
-cd enc-python
-python enc-yas-30.py
+apt update && apt upgrade -y && pkg install git
+pkg install python && pip install requests && git clone https://github.com/Yasssss-py/enc-python && cd enc-python && python enc-yas-30.py
 
 
 
